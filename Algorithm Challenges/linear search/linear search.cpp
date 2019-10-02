@@ -3,28 +3,27 @@ using namespace std;
 
 int main()
 {
-     int a[100],count=0,sz,n,z;
-     cin>>sz;
-     for(int i=0;i<sz;i++)
+     int a[100],size,n,i;
+     cout<<"\n enter size of array";
+     cin>>size;
+     cout<<"\n enter the array elements";
+     for(int i=0;i<size;i++)
      {
         cin>>a[i];        
      }
+     cout<<"\n enter the element you want to search";
      cin>>n;
-     for(int i=0;i<sz;i++)
+     for(i=0;i<size;i++)
      {
         if(a[i]==n)
         {
-            count++;
-            z=i;
+            cout<<"\n element found at pos:= "<<i+1;
+            break;
         }
      }
-     if(count==0)
+     if(i==size)
      {
-        cout<<"no search found";
-     }
-     else
-     {
-        cout<<z+1;
+          cout<<"\n element not found";
      }
     return 0; 
 }
