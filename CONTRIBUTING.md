@@ -27,3 +27,8 @@ About: Programming teacher<br/>
 Programming Language: Java, JS, C, C++, C#<br/>
 Email: and1res@hotmail.com<br/>
 
+Name: [Yash Kumar Arora](https://github.com/arora-yash/)<br/>
+Place: India<br/>
+About: Developer<br/>
+Programming Language: Java, JS<br/>
+Email: arorayash1998@gmail.com<br/>
