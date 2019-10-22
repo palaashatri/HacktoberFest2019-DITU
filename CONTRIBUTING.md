@@ -27,3 +27,8 @@ About: Programming teacher<br/>
 Programming Language: Java, JS, C, C++, C#<br/>
 Email: and1res@hotmail.com<br/>
 
+NAME: KARTIKEYA GUPTA
+PLACE:KANPUR
+ABOUT: STUDENT
+PROGRAMMING LANGUAGE: PYTHON
+EMAIL: guptakar20@gmail.com
