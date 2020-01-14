@@ -27,6 +27,13 @@ About: Programming teacher<br/>
 Programming Language: Java, JS, C, C++, C#<br/>
 Email: and1res@hotmail.com<br/>
 
+
+Name: [Ogechi Ike](https://github.com/Rufusnu)
+Place: Romania
+About: Computer science student
+Programming Language(s): HTML/CSS, C++, Python, C#
+Email: razvan.sofian@yahoo.ro
+=======
 NAME: KARTIKEYA GUPTA
 PLACE:KANPUR
 ABOUT: STUDENT
