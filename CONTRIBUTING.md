@@ -9,6 +9,13 @@ Programming Language: Java, JS, C, C++, JavaScript, Python<br/>
 Email: palaash.atri@gmail.com<br/>
 
 
+Name: [Rakshith A G](https://github.com/alahamrakshith)<br/>
+Place: India<br/>
+About: Developer, Machine learning Enthusiast<br/>
+Programming Language: C,Java,Python,SQL,JS,React<br/>
+Email: alahamrakshith@gmail.com<br/>
+=======
+
 Name: Bilal Adam
 Place: Nigeria
 About: Analyst, programmer.
