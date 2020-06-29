@@ -11,7 +11,8 @@ Can't make it to this event? Hacktoberfest is virtual and open to participants f
 
 ## Getting Started
 Add Your Name to the CONTRIBUTORS.md file using following model
-```Name: [YOUR NAME](Github Link)
+```
+Name: [YOUR NAME](Github Link)
 Place: city you belong to
 About: Short Intro
 Programming Language: Which programming language do you know
@@ -20,25 +21,25 @@ Email:
 Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 Clone your fork down to your local machine
 
-> git clone https://github.com/your-username/Hacktoberfest-Repo-DIT-2K19.git
+``` git clone https://github.com/your-username/Hacktoberfest-Repo-DIT-2K19.git ```
 
 Create a branch for a new feature
 
-> git checkout -b feature/branch-name
+``` git checkout -b feature/branch-name ```
 
 Or if it's a bugfix to a file
 
-> git checkout -b bugfix/branch-name
+``` git checkout -b bugfix/branch-name ```
 
 Make your changes (Choose from any task below)
 Commit and Push
+```
+ git add .
 
-> git add .
+ git commit -m 'commit message'
 
-> git commit -m 'commit message'
-
->git push origin branch-name
-
+ git push origin branch-name
+```
 Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
 Wait for your PR review and merge approval!
 
